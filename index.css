@@ -1,0 +1,22 @@
+body
+{
+	background-color: #9FFBFF;
+}
+
+.table1 img
+{
+	height: 200px;
+	width: 200px;
+	border-radius: 100px;
+}
+
+.table3 img
+{
+	height: 35px;
+}
+
+hr
+{
+	border-style: dotted none none;
+	width: 15%;
+}
